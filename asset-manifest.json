@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/damilog/movie_app/static/css/main.b7cf6848.chunk.css",
-    "main.js": "/damilog/movie_app/static/js/main.cd60574c.chunk.js",
-    "main.js.map": "/damilog/movie_app/static/js/main.cd60574c.chunk.js.map",
-    "runtime-main.js": "/damilog/movie_app/static/js/runtime-main.c1431659.js",
-    "runtime-main.js.map": "/damilog/movie_app/static/js/runtime-main.c1431659.js.map",
-    "static/js/2.13bd5e02.chunk.js": "/damilog/movie_app/static/js/2.13bd5e02.chunk.js",
-    "static/js/2.13bd5e02.chunk.js.map": "/damilog/movie_app/static/js/2.13bd5e02.chunk.js.map",
-    "index.html": "/damilog/movie_app/index.html",
-    "precache-manifest.e99fb6b8b7fa3034ae2076f9908d45df.js": "/damilog/movie_app/precache-manifest.e99fb6b8b7fa3034ae2076f9908d45df.js",
-    "service-worker.js": "/damilog/movie_app/service-worker.js",
-    "static/css/main.b7cf6848.chunk.css.map": "/damilog/movie_app/static/css/main.b7cf6848.chunk.css.map",
-    "static/js/2.13bd5e02.chunk.js.LICENSE.txt": "/damilog/movie_app/static/js/2.13bd5e02.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app/static/css/main.b7cf6848.chunk.css",
+    "main.js": "/movie_app/static/js/main.cd60574c.chunk.js",
+    "main.js.map": "/movie_app/static/js/main.cd60574c.chunk.js.map",
+    "runtime-main.js": "/movie_app/static/js/runtime-main.ffbc15b4.js",
+    "runtime-main.js.map": "/movie_app/static/js/runtime-main.ffbc15b4.js.map",
+    "static/js/2.13bd5e02.chunk.js": "/movie_app/static/js/2.13bd5e02.chunk.js",
+    "static/js/2.13bd5e02.chunk.js.map": "/movie_app/static/js/2.13bd5e02.chunk.js.map",
+    "index.html": "/movie_app/index.html",
+    "precache-manifest.11ec97da8889ba3f4c1d2a942fb17d1b.js": "/movie_app/precache-manifest.11ec97da8889ba3f4c1d2a942fb17d1b.js",
+    "service-worker.js": "/movie_app/service-worker.js",
+    "static/css/main.b7cf6848.chunk.css.map": "/movie_app/static/css/main.b7cf6848.chunk.css.map",
+    "static/js/2.13bd5e02.chunk.js.LICENSE.txt": "/movie_app/static/js/2.13bd5e02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1431659.js",
+    "static/js/runtime-main.ffbc15b4.js",
     "static/js/2.13bd5e02.chunk.js",
     "static/css/main.b7cf6848.chunk.css",
     "static/js/main.cd60574c.chunk.js"
