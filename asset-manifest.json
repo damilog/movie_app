@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/damilog/movie_app/static/css/main.b7cf6848.chunk.css",
+    "main.js": "/damilog/movie_app/static/js/main.cd60574c.chunk.js",
+    "main.js.map": "/damilog/movie_app/static/js/main.cd60574c.chunk.js.map",
+    "runtime-main.js": "/damilog/movie_app/static/js/runtime-main.c1431659.js",
+    "runtime-main.js.map": "/damilog/movie_app/static/js/runtime-main.c1431659.js.map",
+    "static/js/2.13bd5e02.chunk.js": "/damilog/movie_app/static/js/2.13bd5e02.chunk.js",
+    "static/js/2.13bd5e02.chunk.js.map": "/damilog/movie_app/static/js/2.13bd5e02.chunk.js.map",
+    "index.html": "/damilog/movie_app/index.html",
+    "precache-manifest.e99fb6b8b7fa3034ae2076f9908d45df.js": "/damilog/movie_app/precache-manifest.e99fb6b8b7fa3034ae2076f9908d45df.js",
+    "service-worker.js": "/damilog/movie_app/service-worker.js",
+    "static/css/main.b7cf6848.chunk.css.map": "/damilog/movie_app/static/css/main.b7cf6848.chunk.css.map",
+    "static/js/2.13bd5e02.chunk.js.LICENSE.txt": "/damilog/movie_app/static/js/2.13bd5e02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1431659.js",
+    "static/js/2.13bd5e02.chunk.js",
+    "static/css/main.b7cf6848.chunk.css",
+    "static/js/main.cd60574c.chunk.js"
+  ]
+}
